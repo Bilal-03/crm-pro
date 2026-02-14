@@ -281,8 +281,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@Bilal-03](https://github.com/Bilal-03)
+- LinkedIn: [bilal2012](https://linkedin.com/in/bilal2012)
 
 ## 🙏 Acknowledgments
 
